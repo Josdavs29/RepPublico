@@ -20,4 +20,9 @@ class MainActivity : AppCompatActivity() {
             startActivity(activar)
         }
     }
+
+    fun suma(){
+        var a, b
+        a + b
+    }
 }
